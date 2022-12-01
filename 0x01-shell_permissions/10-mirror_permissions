@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod __solutions = olleh hello
+chmod --solutions = olleh hello
