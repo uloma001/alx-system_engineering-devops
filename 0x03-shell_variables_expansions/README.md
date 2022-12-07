@@ -1,1 +1,1 @@
-count the directories in a path
+print global variables
