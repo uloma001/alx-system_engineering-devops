@@ -1,1 +1,1 @@
-Print hello user
+count the directories in a path
