@@ -1,1 +1,2 @@
-list local variable
+#!/bin/bash
+set
